@@ -48,7 +48,7 @@ namespace ProyectoTAP___Carreritas_de_F1
 
             //Agegar sonido de fondo
             SoundPlayer sp = new SoundPlayer();
-            sp.SoundLocation = "H:\\Escuela\\Topicos de Programacion\\TopicosdeProgramacion\\Unidad 3\\ProyectoTAP - Carreritas de F1\\Resources\\menu.wav";
+            sp.SoundLocation = "..\\..\\Resources\\menu.wav";
             sp.Play();
 
         }
@@ -95,7 +95,7 @@ namespace ProyectoTAP___Carreritas_de_F1
 
                 //Agegar sonido de fondo
                 SoundPlayer sp = new SoundPlayer();
-                sp.SoundLocation = "H:\\Escuela\\Topicos de Programacion\\TopicosdeProgramacion\\Unidad 3\\ProyectoTAP - Carreritas de F1\\Resources\\aceleracion.wav";
+                sp.SoundLocation = "..\\..\\Resources\\aceleracion.wav";
                 sp.Play();
             }
             catch (Exception d)
@@ -237,7 +237,7 @@ namespace ProyectoTAP___Carreritas_de_F1
         {
             //Agegar sonido de fondo
             SoundPlayer sp = new SoundPlayer();
-            sp.SoundLocation = "H:\\Escuela\\Topicos de Programacion\\TopicosdeProgramacion\\Unidad 3\\ProyectoTAP - Carreritas de F1\\Resources\\alospits.wav";
+            sp.SoundLocation = "..\\..\\Resources\\alospits.wav";
             sp.Play();
 
             // Reinicia las posiciones y los valores de los carros

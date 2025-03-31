@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.ComponentModel;
 
 namespace CruzPatinoDiego_Practica2U2__Boton.CustomControls
 {
@@ -15,6 +16,13 @@ namespace CruzPatinoDiego_Practica2U2__Boton.CustomControls
         private int borderSize = 20;
         private int borderRadius = 40;
         private Color borderColor = Color.BlueViolet;
+
+        [Category("Apariencia")]
+        public int BorderSize { get => borderSize; set => borderSize = value; }
+        [Category("Apariencia")]
+        public int BorderRadius { get => borderRadius; set => borderRadius = value; }
+        [Category("Apariencia")]
+        public Color BorderColor { get => borderColor; set => borderColor = value; }
 
         //Constructor
         public BotonCustomHilos()

@@ -1,20 +1,10 @@
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\bin\Debug\ProyectoTAP - Carreritas de F1.exe.config
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\bin\Debug\ProyectoTAP - Carreritas de F1.exe
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\bin\Debug\ProyectoTAP - Carreritas de F1.pdb
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.AssemblyReference.cache
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP___Carreritas_de_F1.Form1.resources
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP___Carreritas_de_F1.Properties.Resources.resources
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.GenerateResource.cache
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.CoreCompileInputs.cache
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.exe
-C:\Users\LAB-DSC-ITT\Desktop\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.pdb
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\bin\Debug\ProyectoTAP - Carreritas de F1.exe.config
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\bin\Debug\ProyectoTAP - Carreritas de F1.exe
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\bin\Debug\ProyectoTAP - Carreritas de F1.pdb
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.AssemblyReference.cache
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP___Carreritas_de_F1.Form1.resources
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP___Carreritas_de_F1.Properties.Resources.resources
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.GenerateResource.cache
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.CoreCompileInputs.cache
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.exe
-H:\Escuela\Topicos de Programacion\TopicosdeProgramacion\Unidad 3\ProyectoTAP - Carreritas de F1\obj\Debug\ProyectoTAP - Carreritas de F1.pdb
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.AssemblyReference.cache
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\bin\Debug\ProyectoTAP - Carreritas de F1.exe.config
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\bin\Debug\ProyectoTAP - Carreritas de F1.exe
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\bin\Debug\ProyectoTAP - Carreritas de F1.pdb
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\obj\Debug\ProyectoTAP___Carreritas_de_F1.Form1.resources
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\obj\Debug\ProyectoTAP___Carreritas_de_F1.Properties.Resources.resources
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.GenerateResource.cache
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\obj\Debug\ProyectoTAP - Carreritas de F1.csproj.CoreCompileInputs.cache
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\obj\Debug\ProyectoTAP - Carreritas de F1.exe
+C:\Users\LAB-DSC-ITT\Downloads\Proyecto-Hilos---TAP-main\Proyecto-Hilos---TAP-main\obj\Debug\ProyectoTAP - Carreritas de F1.pdb
